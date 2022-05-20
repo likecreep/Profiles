@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,netflixdnstest6.com
 DOMAIN-SUFFIX,netflixdnstest7.com
 DOMAIN-SUFFIX,netflixdnstest8.com
 DOMAIN-SUFFIX,netflixdnstest9.com
+IP-CIDR,8.8.8.8/32,no-resolve
